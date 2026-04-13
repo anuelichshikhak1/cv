@@ -18,3 +18,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-13
 - Improved log message formatting
+
+## 2026-04-13
+- Wrote notes on upcoming feature design
+- Refactored module structure for clarity
